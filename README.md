@@ -10,3 +10,4 @@
 1. https://www.secmem.org/blog/2021/06/20/Object_Detection/
 1. https://www.lgresearch.ai/kor/blog/view/?seq=74 : 최근 비전연구 추세 및 해결해야할 문제 제시(visual reasoning)
 1. https://www.si-analytics.ai/ : 쎄트렉아이 애널리틱스 홈페이지 - 뉴스/IR - BMTT(Benchmarking Multi-Target Tracking) 챌린지와 MOT(Multi-Object Tracking) 트랙 1위 수상 뉴스
+1. https://supermemi.tistory.com/185 : CVPR 2022 Graph Machine Learning 튜토리얼(tutorial) 요약 정리
