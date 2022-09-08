@@ -12,4 +12,5 @@
 1. https://www.si-analytics.ai/ : 쎄트렉아이 애널리틱스 홈페이지 - 뉴스/IR - BMTT(Benchmarking Multi-Target Tracking) 챌린지와 MOT(Multi-Object Tracking) 트랙 1위 수상 뉴스
 1. https://supermemi.tistory.com/185 : CVPR 2022 Graph Machine Learning 튜토리얼(tutorial) 요약 정리
 1. https://github.com/Team-Neighborhood/I-want-to-study-Data-Science : 인공지능 분야로 준비하려는 분들에게 길잡이가 되어주는 블로그
-1. 
+1. A Survey of Modern Deep Learning based Object Detection Models, 논문
+1. https://ganghee-lee.tistory.com/35 : R-CNN 설명
