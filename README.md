@@ -14,3 +14,5 @@
 1. https://github.com/Team-Neighborhood/I-want-to-study-Data-Science : 인공지능 분야로 준비하려는 분들에게 길잡이가 되어주는 블로그
 1. A Survey of Modern Deep Learning based Object Detection Models, 논문
 1. https://ganghee-lee.tistory.com/35 : R-CNN 설명
+1. https://velog.io/@cha-suyeon/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-You-Only-Look-Once-YOLO-v1-v2-v3 : YOLO 논문 리뷰
+1. Deep Learning for Generic Object Detection: A Survey, 논문
