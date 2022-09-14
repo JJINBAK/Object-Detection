@@ -17,4 +17,4 @@
 1. https://velog.io/@cha-suyeon/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-You-Only-Look-Once-YOLO-v1-v2-v3 : YOLO 논문 리뷰
 1. Deep Learning for Generic Object Detection: A Survey, 논문
 1. https://nuguziii.github.io/survey/S-001/ : Object Detection 논문 소개
-1. 
+1. https://leedakyeong.tistory.com/entry/Object-Detection-YOLO-v1v6-%EB%B9%84%EA%B5%90 : YOLO 버전별 비교
